@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.container{
+.content_wrapper{
     max-width: 2560px;
     margin-left: auto;
     margin-right: auto;
